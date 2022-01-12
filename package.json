@@ -26,6 +26,7 @@
     "@babel/plugin-transform-regenerator": "^7.16.7",
     "@babel/plugin-transform-runtime": "^7.16.8",
     "@babel/preset-env": "^7.16.7",
+    "@babel/runtime": "^7.16.7",
     "ncp": "^2.0.0",
     "nodemon": "^2.0.15"
   }
