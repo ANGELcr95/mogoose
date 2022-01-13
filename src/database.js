@@ -1,5 +1,6 @@
 import { connect } from "mongoose";
-import { MONGODB_URI } from "./config";
+// import { MONGODB_URI } from "./config";
+const MONGODB_URI = "mongodb+srv://angel:<macr1995>@cluster0.y7bmh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 
 (async () => {
   try {
