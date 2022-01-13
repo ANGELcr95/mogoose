@@ -1,3 +1,4 @@
+import {PORT} from "./config"
 import app from "./app"
 import "./database"
 
